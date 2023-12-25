@@ -8,6 +8,10 @@
 
 
 
+![Snake animation](https://github.com/seu-usuário-aqui/carlosandresamp/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="120" max-width="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" max-width="100%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="120" max-width="100%"/>
 <img src="https://camo.githubusercontent.com/cb3a051f90a1618d6ccf13861b8a8ef2dc680491b528a6b470c7e9600da92c63/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32782f6a6176617363726970742e706e67" width="120" max-width="100%"/>
