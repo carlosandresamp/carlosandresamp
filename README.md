@@ -10,7 +10,8 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="120" max-width="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" max-width="100%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="120" max-width="100%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120" max-width="100%"/>
-<img src="https://camo.githubusercontent.com/3283f94b969cb2778083d3c1255dd69f035be1f90af2f1360dfe36bb890f4706/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32782f6a6176617363726970742e706e67" width="120" alt="JavaScript" data-canonical-src="https://img.icons8.com/nolan/2x/javascript.png" style="max-width: 100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="120" max-width="100%"/>
+          
           
 
 
