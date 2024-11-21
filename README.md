@@ -1,4 +1,3 @@
-### Olá! Eu sou o Carlos André, seja bem vindo aqui ao meu perfil no Github 👋
 ### Hello! I'm Carlos André, welcome here to my Github profile 👋
 
 
