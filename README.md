@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120" max-width="100%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="120" max-width="100%"/>
 
-<p dir="auto"> Apaixonado por tecnologia desde criança, sempre quis saber como tudo funcionava, como era feito a lógica dos sites, dos sistemas e até mesmo dos hardware's por trás de tudo. Atualmento cursando Análise e Desenvolvimento de Sistemas no (IFPI) Instituto Federal do Piauí e neste momento estudando de forma autodidata atualmente Typescript, C, Python, NodeJS entre outras linguagens, frameworks e API's, e assim eu vou, sempre em busca de mais e mais conhecimento na área da tecnologia.
+<p dir="auto"> Apaixonado por tecnologia desde criança, sempre quis saber como tudo funcionava, como era feito a lógica por trás daquilo, dos sistemas e até mesmo do hardware. Atualmento cursando Análise e Desenvolvimento de Sistemas no (IFPI) Instituto Federal do Piauí e neste momento estudando de forma autodidata atualmente Typescript, C, Python, NodeJS entre outras linguagens, frameworks e API's, e por aí vai, sempre em busca de mais conhecimento na área da tecnologia...
 </p>
 
 
